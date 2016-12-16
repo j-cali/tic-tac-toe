@@ -12,7 +12,15 @@
 
 
     <TextView
+        android:text="@string/app_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/play_button"
+        android:text="Play!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="'Tic-Tac-Toe' Android application for learning Android programming." />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
 </RelativeLayout>
