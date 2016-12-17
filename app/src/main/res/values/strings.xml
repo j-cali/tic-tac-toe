@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Tic-Tac-Toe</string>
-    <string name="app_description">'Tic-Tac-Toe' Android application for learning Android
+    <string name="app_description">\'Tic-Tac-Toe\' Android application for learning Android
         programming.</string>
+    <string name="text_mark_choice">Choose your symbol:</string>
 </resources>
